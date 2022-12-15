@@ -1,4 +1,4 @@
-# **02 Moving a containerised app to PaaS/serverless**
+# ** Moving a containerised app to PaaS/serverless**
 
 ## **Introduction**
 
